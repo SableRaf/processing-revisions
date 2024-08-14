@@ -9,7 +9,7 @@ These legacy releases are provided as is, bugs and all, for their historical val
 
 We do not provide support or bug fixes for these very early versions of Processing. However, if you find a problem with this repository, such as a corrupted archive, or a wrong file in a release, please file an issue. 
 
-If you do [run these on original hardware](https://x.com/davepvm/status/1821897927888892148), please share your process and a video or a photo on the [Processing forum](https://discourse.processing.org/).
+If you do [run these on original hardware](https://x.com/davepvm/status/1821897927888892148), please share your process and a video or a photo on the [Processing forum](https://discourse.processing.org/). We'd love to see it!
 
 To download the latest version of Processing, go to [processing.org/download](https://processing.org/download)
 
