@@ -1,5 +1,5 @@
-# processing-revisions
-Archival project for early (pre, alpha, beta) Processing releases
+# Processing Early Releases
+This repository is an archival project for early (pre, alpha, beta) Processing releases.
 
 The versions of Processing featured on this repository were released between 2001 and 2005. The archival process is a work in progress, starting with `processing-0001.sit` (pre-release) and working all the way up to `processing-0104-expert.zip` (beta release). In total this is 287 individual files to upload, tag, and check by hand. If you want to help this archival effort, please contact hello@processing.org.
 
