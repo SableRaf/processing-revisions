@@ -11,7 +11,7 @@ We do not provide support or bug fixes for these very early versions of Processi
 
 If you do [run these on original hardware](https://x.com/davepvm/status/1821897927888892148), please share your process and a video or a photo on the [Processing forum](https://discourse.processing.org/). We'd love to see it!
 
-To download the latest version of Processing, go to [processing.org/download](https://processing.org/download)
+This repository is an archive. If you are looking for the latest version of Processing, go to [processing.org/download](https://processing.org/download)
 
 For detailed licensing information about Processing, see https://github.com/processing/processing4/blob/main/LICENSE.md
 
