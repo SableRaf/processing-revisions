@@ -6,10 +6,15 @@ We believe these legacy versions and their release notes have historical value a
 > [!NOTE]  
 > If you are looking for the latest version of Processing go to the [Processing download page](https://processing.org/download)
 
-## ℹ️ How to Download the Releases
+## ℹ️ How to Download the Binaries
 
-1. Head to the [Releases](https://github.com/SableRaf/processing-revisions/releases) page.
-1. Locate the release you want and download the appropriate file for your system (see the extension for guidance)
+### Full Archive
+You can access and download the original `revisions` folder containing all binaries [here](https://drive.google.com/drive/folders/1H8E2eIymWTz3qYPOJakRNdkcG-0XjOib?usp=drive_link).
+
+### Re-releases on GitHub
+To make these files easier to navigate, we will also be uploading the binaries for each version as releases on this repository.
+
+Head to the [Releases](https://github.com/SableRaf/processing-revisions/releases) and locate the release you want to download. Check the file extension to identify the correct version for your operating system: macOS (`hqx`, `dmg`, `sit`, `sitx`), Windows (`zip`, `exe`), or Unix systems (`tgz`).
 
 > [!WARNING]
 > GitHub automatically creates two extra files called `Source code (zip)` and `Source code (tar.gz)`. These files were not part of the original release and you may safely ignore them.
