@@ -1,5 +1,7 @@
 # Processing Early Releases (2001-2005)
-This repository is an ongoing archival project for early Processing releases. These _pre_, _alpha_, and _beta_ versions of Processing were initially released between the years 2001 and 2005. We believe these have historical value and are worth preserving. If you would like to help our conservation efforts, or if this work was helpful to you, [get in touch](#contacts)!
+This repository is an ongoing archival project for early Processing releases. These _pre_, _alpha_, and _beta_ versions of Processing were initially released between the years 2001 and 2005. 
+
+We believe these versions and their release notes have historical value and are worth preserving. If you would like to help our conservation efforts, or if this work was helpful to you, [get in touch](#contacts)!
 
 > [!NOTE]  
 > If you are looking for the latest version of Processing go to the [Processing download page](https://processing.org/download)
@@ -44,9 +46,9 @@ Thanks to Dave Pagurek for prompting me to dig up these files.
 
 ## Contacts
 
-For questions about this archival effort, please write to hello@processing.org
+For inquiries about this archival effort, please write to hello@processing.org
 
-For any other questions, contact foundation@processingfoundation.org
+For any other inquiries, contact foundation@processingfoundation.org
 
 ## Credits and Licensing
 
