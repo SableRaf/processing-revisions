@@ -11,7 +11,7 @@ We believe these legacy versions and their release notes have historical value a
 ### [Full Archive](https://drive.google.com/drive/folders/1H8E2eIymWTz3qYPOJakRNdkcG-0XjOib?usp=drive_link)
 You can access and download the original `revisions` folder containing all binaries [here](https://drive.google.com/drive/folders/1H8E2eIymWTz3qYPOJakRNdkcG-0XjOib?usp=drive_link).
 
-### [Re-releases on GitHub](https://github.com/SableRaf/processing-revisions/releases)
+### [Re-releases on GitHub](https://github.com/SableRaf/processing-revisions/releases) (WIP)
 To make these files easier to navigate, we will also be uploading the binaries for each version as releases on this repository.
 
 Head to the [Releases](https://github.com/SableRaf/processing-revisions/releases) and locate the release you want to download. Check the file extension to identify the correct version for your operating system: macOS (`hqx`, `dmg`, `sit`, `sitx`), Windows (`zip`, `exe`), or Unix systems (`tgz`).
