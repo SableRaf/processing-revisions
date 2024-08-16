@@ -1,7 +1,5 @@
 # Processing Early Releases (2001-2005)
-This repository is an archival project for early (pre, alpha, beta) Processing releases.
-
-The versions of Processing featured on this repository were released between 2001 and 2005. 
+This repository is an ongoing archival project for early (pre, alpha, beta) Processing releases.
 
 If you are looking for the latest version of Processing, go to [processing.org/download](https://processing.org/download)
 
@@ -13,7 +11,7 @@ If you are looking for the latest version of Processing, go to [processing.org/d
 **Note:** GitHub automatically creates two extra files called `Source code (zip)` and `Source code (tar.gz)`. You may safely ignore those.
 
 ## Disclaimer
-These legacy releases are provided "as is", bugs and all, for their historical value and to support conservation efforts. Many of these versions were unstable or had various issues, often released in quick succession to fix bugs from previous versions. For technical details, refer to the included release notes, and check the release dates for an idea of each version's stability. We do not provide support or bug fixes for these very early versions of Processing. However, if you find a problem with this repository, such as a corrupted archive, or a wrong file in a release, please file an issue. 
+The versions of Processing featured on this repository were released between 2001 and 2005. These legacy releases are provided "as is", bugs and all, for their historical value and to support conservation efforts. Many of these versions were unstable or had various issues, often released in quick succession to fix bugs from previous versions. For technical details, refer to the included release notes, and check the release dates for an idea of each version's stability. We do not provide support or bug fixes for these very early versions of Processing. However, if you find a problem with this repository, such as a corrupted archive, or a wrong file in a release, please file an issue. 
 
 The archival process **is a work in progress**, starting with `processing-0001.sit` (pre-release) and working all the way up to `processing-0104-expert.zip` (beta release). In total this is 287 individual files to upload, tag, and check by hand. If you want to help this archival effort, please contact hello@processing.org.
 
