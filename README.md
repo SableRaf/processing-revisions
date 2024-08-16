@@ -1,7 +1,8 @@
 # Processing Early Releases (2001-2005)
 This repository is an ongoing archival project for early (pre, alpha, beta) Processing releases.
 
-If you are looking for the latest version of Processing, go to [processing.org/download](https://processing.org/download)
+> [!NOTE]  
+> If you are looking for the latest version of Processing go to the [Processing download page](https://processing.org/download)
 
 Past versions of the Processing forum are also archived. You can find them at https://forum.processing.org/. This includes the [alpha forum](https://forum.processing.org/alpha/), which was active from 2002 to 2005, concurrently with most of the releases this repository aims to archive.
 
