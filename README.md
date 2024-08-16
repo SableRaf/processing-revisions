@@ -3,6 +3,8 @@ This repository is an ongoing archival project for early (pre, alpha, beta) Proc
 
 If you are looking for the latest version of Processing, go to [processing.org/download](https://processing.org/download)
 
+You can find an archive of past versions of the Processing forum at https://forum.processing.org/, including the [alpha forum](https://forum.processing.org/alpha/), which was active from 2002 to 2005, concurrently with most of the releases this repository aims to archive.
+
 ## How to Download the Releases
 
 1. Head to the [Releases](https://github.com/SableRaf/processing-revisions/releases) page.
