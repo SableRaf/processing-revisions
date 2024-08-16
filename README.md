@@ -31,6 +31,12 @@ If you do [run these on original hardware](https://x.com/davepvm/status/18218979
 * [The Power of Processing](https://www.rightclicksave.com/article/the-power-of-processing-casey-reas-and-lauren-lee-mccarthy-interview-generative-art) An interview with Casey Reas and Lauren Lee McCarthy by Alex Estorick for Right Click Save
 * [Code, Community, and Creativity in Processing](https://fredi.hepvs.ch/global/documents/328908) by Tibor Udvari
 
+## Thanks
+
+Thanks to Ben Fry and Casey Reas for creating Processing!
+
+Thanks to Dave Pagurek for prompting me to dig up these files.
+
 ## Credits and Licensing
 
 For detailed licensing information about Processing, see https://github.com/processing/processing4/blob/main/LICENSE.md
@@ -38,3 +44,8 @@ For detailed licensing information about Processing, see https://github.com/proc
 All credit for the content of this repository go to the original authors.
 
 <img width="794" alt="image" src="https://github.com/user-attachments/assets/8c7d3b52-d5f5-40cf-a18e-b1becf3a3fe1">
+
+## Contacts
+
+For questions about this archival efforts, please write to hello@processing.org
+For any other questions, contact foundation@processingfoundation.org
