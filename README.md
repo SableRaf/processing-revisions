@@ -37,6 +37,12 @@ Thanks to Ben Fry and Casey Reas for creating Processing!
 
 Thanks to Dave Pagurek for prompting me to dig up these files.
 
+## Contacts
+
+For questions about this archival effort, please write to hello@processing.org
+
+For any other questions, contact foundation@processingfoundation.org
+
 ## Credits and Licensing
 
 For detailed licensing information about Processing, see https://github.com/processing/processing4/blob/main/LICENSE.md
@@ -44,9 +50,3 @@ For detailed licensing information about Processing, see https://github.com/proc
 All credit for the content of this repository go to the original authors.
 
 <img width="794" alt="image" src="https://github.com/user-attachments/assets/8c7d3b52-d5f5-40cf-a18e-b1becf3a3fe1">
-
-## Contacts
-
-For questions about this archival effort, please write to hello@processing.org
-
-For any other questions, contact foundation@processingfoundation.org
