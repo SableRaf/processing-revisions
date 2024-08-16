@@ -4,10 +4,6 @@ This repository is an ongoing archival project for early (pre, alpha, beta) Proc
 > [!NOTE]  
 > If you are looking for the latest version of Processing go to the [Processing download page](https://processing.org/download)
 
-Past versions of the Processing forum are also archived. You can find them at https://forum.processing.org/. This includes the [alpha forum](https://forum.processing.org/alpha/), which was active from 2002 to 2005, concurrently with most of the releases this repository aims to archive.
-
-The Processing website was originally hosted at proce55ing.net. Archives going back to 2001 can be found on [archive.org](https://web.archive.org/web/20240000000000*/proce55ing.net).
-
 ## How to Download the Releases
 
 1. Head to the [Releases](https://github.com/SableRaf/processing-revisions/releases) page.
@@ -23,6 +19,14 @@ The archival process **is a work in progress**, starting with `processing-0001.s
 ## Share your runs
 
 If you do [run these on original hardware](https://x.com/davepvm/status/1821897927888892148), please share your process and a video or a photo on the [Processing forum](https://discourse.processing.org/). We'd love to see it!
+
+## Other archives
+
+### Processing Forum Archives
+Past versions of the Processing forum are also archived. You can find them at https://forum.processing.org/. This includes the [alpha forum](https://forum.processing.org/alpha/), which was active from 2002 to 2005, concurrently with most of the releases this repository aims to preserve.
+
+### Processing Website Archives
+The Processing website was originally hosted at proce55ing.net. Archives going back to 2001 can be found on [archive.org](https://web.archive.org/web/20240000000000*/proce55ing.net).
 
 ## Related Articles
 * [A Modern Prometheus](https://medium.com/processing-foundation/a-modern-prometheus-59aed94abe85): A History of Processing by Casey Reas and Ben Fry
