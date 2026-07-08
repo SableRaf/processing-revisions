@@ -6,6 +6,10 @@ We believe these legacy versions and their release notes have historical value a
 > [!NOTE]  
 > If you are looking for the latest version of Processing go to the [Processing download page](https://processing.org/download)
 
+<img width="1024" height="768" alt="Proce55ing Alpha in Mac OS 9. The reference opens in IE 5." src="https://github.com/user-attachments/assets/ff41a2f1-1e19-4398-a316-8d8fd00d76ed" />
+
+_Image by Dave Pagurek (in [Evolution of a Sketch](https://www.davepagurek.com/blog/sketch-evolution/))_
+
 ## ℹ️ How to Download the Binaries
 
 ### [Full Archive](https://drive.google.com/drive/folders/1H8E2eIymWTz3qYPOJakRNdkcG-0XjOib?usp=drive_link)
@@ -37,6 +41,7 @@ Past versions of the Processing forum are also archived. You can find them at ht
 The Processing website was originally hosted at proce55ing.net. Archives going back to 2001 can be found on [archive.org](https://web.archive.org/web/20240000000000*/proce55ing.net).
 
 ## 📚 Related Articles
+* [Evolution of a Sketch](https://www.davepagurek.com/blog/sketch-evolution/) by Dave Pagurek. 
 * [A Modern Prometheus](https://medium.com/processing-foundation/a-modern-prometheus-59aed94abe85): A History of Processing by Casey Reas and Ben Fry
 * [Processing: the Software that Shaped Creative Coding](https://eyeondesign.aiga.org/processing-the-software-that-shaped-creative-coding/) on AIGA Eye on Design
 * [Interview with Casey Reas and Ben Fry](https://rhizome.org/editorial/2009/sep/23/interview-with-casey-reas-and-ben-fry/) by Daniel Shiffman for Rhizome
